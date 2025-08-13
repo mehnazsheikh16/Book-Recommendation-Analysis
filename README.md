@@ -1,6 +1,6 @@
 # Book Recommendation Data Analysis
 
-A simple Python project analyzing book recommendation data using Jupyter Notebook.
+A Python project analyzing book recommendation data using Jupyter Notebook.
 
 ## Files
 - `Code.ipynb`: Jupyter Notebook with the Python code and analysis.
